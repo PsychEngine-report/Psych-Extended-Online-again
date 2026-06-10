@@ -13,19 +13,21 @@
     },
     {
       "name": "openfl",
-      "type": "haxelib",
-      "version": "9.3.3"
+      "type": "git",
+      "ref": "5d33fb36dce7a82ed5782a60c0c24640b7f81591",
+      "url": "https://github.com/ShadowEngineTeam/openfl"
     },
     {
       "name": "flixel",
       "type": "git",
-      "ref": "main",
-      "url": "https://github.com/Prohack101010/flixel-5.8.0-fixed"
+      "ref": "0eb0a03d56f23b3214768b099d0d78dbf9a23711",
+      "url": "https://github.com/ShadowEngineTeam/flixel"
     },
     {
       "name": "flixel-addons",
-      "type": "haxelib",
-      "version": "3.3.2"
+      "type": "git",
+      "ref": "7628435364c4a45440d1e5db656741b66a8cd2ec",
+      "url": "https://github.com/FunkinCrew/flixel-addons"
     },
     {
       "name": "flixel-tools",
@@ -40,9 +42,8 @@
     {
       "name": "hxcpp",
       "type": "git",
-      "dir": null,
-      "ref": null,
-      "url": "https://github.com/AlafandyPorting/hxcpp-0.7.3"
+      "ref": "a1598103337e382a42d39257cdd0cf036a178d6f",
+      "url": "https://github.com/ShadowEngineTeam/hxcpp"
     },
     {
       "name": "tjson",
@@ -52,14 +53,14 @@
     {
       "name": "SScript",
       "type": "git",
-      "dir": null,
-      "ref": "main",
-      "url": "https://github.com/Snirozu/SScript-7.7.0"
+      "ref": "53ba5336f69b4c1dda03cdeedb558e631405f12f",
+      "url": "https://github.com/ShadowEngineTeam/ShadowScript"
     },
     {
       "name": "hxdiscord_rpc",
-      "type": "haxelib",
-      "version": "1.3.0"
+      "type": "git",
+      "ref": "2ca5930e9647c5de8c220f98427b5c50ddd244dd",
+      "url": "https://github.com/MAJigsaw77/hxdiscord_rpc"
     },
     {
       "name": "linc_luajit",
